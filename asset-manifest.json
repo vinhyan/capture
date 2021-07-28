@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/vinhyan.github.io/capture/static/js/main.c4c6dc88.chunk.js",
+    "main.js.map": "/vinhyan.github.io/capture/static/js/main.c4c6dc88.chunk.js.map",
+    "runtime-main.js": "/vinhyan.github.io/capture/static/js/runtime-main.edec8ade.js",
+    "runtime-main.js.map": "/vinhyan.github.io/capture/static/js/runtime-main.edec8ade.js.map",
+    "static/js/2.e5384487.chunk.js": "/vinhyan.github.io/capture/static/js/2.e5384487.chunk.js",
+    "static/js/2.e5384487.chunk.js.map": "/vinhyan.github.io/capture/static/js/2.e5384487.chunk.js.map",
+    "static/js/3.82b9c854.chunk.js": "/vinhyan.github.io/capture/static/js/3.82b9c854.chunk.js",
+    "static/js/3.82b9c854.chunk.js.map": "/vinhyan.github.io/capture/static/js/3.82b9c854.chunk.js.map",
+    "index.html": "/vinhyan.github.io/capture/index.html",
+    "static/js/2.e5384487.chunk.js.LICENSE.txt": "/vinhyan.github.io/capture/static/js/2.e5384487.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/vinhyan.github.io/capture/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/vinhyan.github.io/capture/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/vinhyan.github.io/capture/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/vinhyan.github.io/capture/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/vinhyan.github.io/capture/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/vinhyan.github.io/capture/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/vinhyan.github.io/capture/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/vinhyan.github.io/capture/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/vinhyan.github.io/capture/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/vinhyan.github.io/capture/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/vinhyan.github.io/capture/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/vinhyan.github.io/capture/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edec8ade.js",
+    "static/js/2.e5384487.chunk.js",
+    "static/js/main.c4c6dc88.chunk.js"
+  ]
+}
