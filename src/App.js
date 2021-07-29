@@ -22,21 +22,20 @@ function App() {
       <Nav />
       <AnimatePresence exitBeforeEnter>
         <Switch location={location} key={location.pathname}>
-          <Route path="https://vinhyan.github.io/capture" exact>
+          <Route path="/" exact>
             <AboutUs />
           </Route>
-          <Route path="https://vinhyan.github.io/capture/work" exact>
+          <Route path="/work" exact>
             <OurWork />
           </Route>
-          <Route path="https://vinhyan.github.io/capture/work/:id">
+          <Route path="/work/:id">
             <MovieDetail />
           </Route>
-          <Route path="https://vinhyan.github.io/capture/contact">
+          <Route path="/contact">
             <ContactUs />
           </Route>
         </Switch>
       </AnimatePresence>
-   
     </div>
   );
 }
