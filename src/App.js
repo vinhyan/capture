@@ -22,16 +22,16 @@ function App() {
       <Nav />
       <AnimatePresence exitBeforeEnter>
         <Switch location={location} key={location.pathname}>
-          <Route path="/" exact>
+          <Route path="/capture" exact>
             <AboutUs />
           </Route>
-          <Route path="/work" exact>
+          <Route path="/capture/work" exact>
             <OurWork />
           </Route>
-          <Route path="/work/:id">
+          <Route path="/capture/work/:id">
             <MovieDetail />
           </Route>
-          <Route path="/contact">
+          <Route path="/capture/contact">
             <ContactUs />
           </Route>
         </Switch>

@@ -10,20 +10,20 @@ const Nav = () => {
   return (
     <StyledNav>
       <h1>
-        <Link to="/" id="logo">
+        <Link to="/capture" id="logo">
           Capture
         </Link>
       </h1>
       <ul>
         <li>
-          <Link to="/" style={pathname === "/" ? { color: "#23d997" } : {}}>
+          <Link to="/" style={pathname === "/capture" ? { color: "#23d997" } : {}}>
             About Us
           </Link>
         </li>
         <li>
           <Link
             to="/work"
-            style={pathname === "/work" ? { color: "#23d997" } : {}}
+            style={pathname === "/capture/work" ? { color: "#23d997" } : {}}
           >
             Our Work
           </Link>
@@ -31,7 +31,7 @@ const Nav = () => {
         <li>
           <Link
             to="/contact"
-            style={pathname === "/contact" ? { color: "#23d997" } : {}}
+            style={pathname === "/capture/contact" ? { color: "#23d997" } : {}}
           >
             Contact
           </Link>
