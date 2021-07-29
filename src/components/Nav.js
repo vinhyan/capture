@@ -16,13 +16,16 @@ const Nav = () => {
       </h1>
       <ul>
         <li>
-          <Link to="/" style={pathname === "/capture" ? { color: "#23d997" } : {}}>
+          <Link
+            to="/capture"
+            style={pathname === "/capture" ? { color: "#23d997" } : {}}
+          >
             About Us
           </Link>
         </li>
         <li>
           <Link
-            to="/work"
+            to="/capture/work"
             style={pathname === "/capture/work" ? { color: "#23d997" } : {}}
           >
             Our Work
@@ -30,7 +33,7 @@ const Nav = () => {
         </li>
         <li>
           <Link
-            to="/contact"
+            to="/capture/contact"
             style={pathname === "/capture/contact" ? { color: "#23d997" } : {}}
           >
             Contact
