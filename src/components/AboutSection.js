@@ -32,7 +32,7 @@ const AboutSection = () => {
           nisi culpa libero suscipit sunt, necessitatibus iste quas enim
           quisquam!
         </motion.p>
-        <Link to="/contact" className="button">
+        <Link to="https://vinhyan.github.io/capture/contact" className="button">
           <motion.button variants={fade}>Contact</motion.button>
         </Link>
       </Description>
