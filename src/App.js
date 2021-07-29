@@ -22,7 +22,7 @@ function App() {
       <Nav />
       <AnimatePresence exitBeforeEnter>
         <Switch location={location} key={location.pathname}>
-          <Route path="https://vinhyan.github.io/capture/" exact>
+          <Route path="https://vinhyan.github.io/capture" exact>
             <AboutUs />
           </Route>
           <Route path="https://vinhyan.github.io/capture/work" exact>

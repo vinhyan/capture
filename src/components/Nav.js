@@ -10,13 +10,13 @@ const Nav = () => {
   return (
     <StyledNav>
       <h1>
-        <Link to="https://vinhyan.github.io/capture/" id="logo">
+        <Link to="https://vinhyan.github.io/capture" id="logo">
           Capture
         </Link>
       </h1>
       <ul>
         <li>
-          <Link to="/" style={pathname === "https://vinhyan.github.io/capture/" ? { color: "#23d997" } : {}}>
+          <Link to="/" style={pathname === "https://vinhyan.github.io/capture" ? { color: "#23d997" } : {}}>
             About Us
           </Link>
         </li>
